@@ -1,0 +1,25 @@
+# Build folders
+bin/
+obj/
+
+# VS / VSCode user-specific files
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Launch settings (contains localhost ports, not sensitive but not needed)
+Properties/launchSettings.json
+
+# User-specific files
+*.user
+*.rsuser
+
+# Generated files
+Generated/
